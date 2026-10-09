@@ -1,6 +1,27 @@
 # Inheritance Bentuk Geometri - Java
+![Java](https://img.shields.io/badge/Language-Java-orange)
+![OOP](https://img.shields.io/badge/Concept-Inheritance-blue)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 Program Java sederhana untuk mempelajari **pewarisan (inheritance)** pada OOP. Program ini memodelkan beberapa bentuk geometri (bujursangkar, lingkaran, dan silinder) yang saling mewarisi dari satu kelas induk, yaitu `Bentuk`.
+
+## Daftar Isi
+- [Tujuan Pembelajaran](#tujuan-pembelajaran)
+- [Struktur Kelas](#struktur-kelas)
+- [Rumus yang Dipakai](#rumus-yang-dipakai)
+- [Struktur Folder](#struktur-folder)   
+- [Cara Menjalankan](#cara-menjalankan)
+- [Contoh Penggunaan](#contoh-penggunaan)   
+- [Hasil Output](#hasil-output)
+- [Konsep OOP](#konsep-oop-yang-dipelajari)
+- [Pembuat](#pembuat)
+
+## Tujuan Pembelajaran
+
+- Memahami konsep pewarisan antar kelas
+- Menggunakan `super()` untuk memanggil constructor induk
+- Menerapkan method overriding dengan `@Override`
+- Menerapkan encapsulation lewat getter dan setter
 
 ## Struktur Kelas
 
