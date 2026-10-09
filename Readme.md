@@ -49,14 +49,14 @@ classDiagram
         +double PHI$
         -double radius
         +getRadius() double
-        +setRadius(double r) void
+        +setRadius(double radius) void
         +hitungLuas() double
         +tampilkanInfo() void
     }
     class Silinder {
         -double tinggi
         +getTinggi() double
-        +setTinggi(double t) void
+        +setTinggi(double tinggi) void
         +hitungVolume() double
         +tampilkanInfo() void
     }
