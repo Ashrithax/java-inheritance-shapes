@@ -22,6 +22,7 @@ Program Java sederhana untuk mempelajari **pewarisan (inheritance)** pada OOP. P
 - Menggunakan `super()` untuk memanggil constructor induk
 - Menerapkan method overriding dengan `@Override`
 - Menerapkan encapsulation lewat getter dan setter
+- Memahami polymorphism melalui method overriding pada `tampilkanInfo()`
 
 ## Struktur Kelas
 
@@ -73,15 +74,15 @@ INHERITANCE/
 2. Clone repository ini:
 
    ```bash
-   git clone https://github.com/USERNAME/NAMA-REPO.git
-   cd NAMA-REPO
+   git clone https://github.com/Ashrithax/java-inheritance-shapes.git
+   cd java-inheritance-shapes
    ```
 
 3. Compile semua file, lalu jalankan kelas yang berisi `main`:
 
    ```bash
    javac *.java
-   java NamaKelasYangAdaMain
+   java Silinder
    ```
 
    Contoh: kalau method `main` ada di `Bentuk.java`, jalankan `java Bentuk`.
